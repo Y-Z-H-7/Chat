@@ -1,0 +1,6 @@
+1.log是个文件，不是文件夹
+2.终端命令提示符要用管理员权限
+3.配置系统环境：控制面板-系统和安全-系统-高级系统设置-环境变量-系统变量里找到path编辑-将mongodb的bin路径添加
+4.mongod --config "D:\VScode\C\mongodb\bin\mongod.cfg"
+5.net start MongoDB
+6.mongod
